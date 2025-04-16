@@ -1,2 +1,4 @@
-nextcord==2.6.0
-python-dotenv==1.0.0
+discord.py
+deep-translator
+python-dotenv
+flask
